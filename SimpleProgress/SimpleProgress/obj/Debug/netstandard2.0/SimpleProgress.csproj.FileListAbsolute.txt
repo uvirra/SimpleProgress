@@ -1,0 +1,9 @@
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/bin/Debug/netstandard2.0/SimpleProgress.deps.json
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/bin/Debug/netstandard2.0/SimpleProgress.dll
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/bin/Debug/netstandard2.0/SimpleProgress.pdb
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.csprojResolveAssemblyReference.cache
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.csproj.CoreCompileInputs.cache
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.AssemblyInfoInputs.cache
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.AssemblyInfo.cs
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.dll
+/Users/andriykolodiychyk/Projects/SimpleProgress/SimpleProgress/SimpleProgress/obj/Debug/netstandard2.0/SimpleProgress.pdb

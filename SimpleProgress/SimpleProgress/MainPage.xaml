@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:SimpleProgress" x:Class="SimpleProgress.MainPage">
+    <StackLayout VerticalOptions="Center">
+
+        <local:SimpleProgress
+            Value="3"
+            MaxValue="5"
+            Color="Blue"
+            SecondColor="SkyBlue"
+            HeightRequest="30"
+            Padding="20,0" />
+    </StackLayout>
+</ContentPage>
